@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR white]SÉRIES-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2.SRS-ALL-LS/main/B-SEL-SRS-ALL-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/GkWfkm0/SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -50,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
+<name>[B][COLOR white]ANIMES-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3-ANMS-ALL-LS/main/B-SEL-SERV-ANMS-MTX</externallink>
 <thumbnail>https://i.ibb.co/7rchFdT/ANMS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]NOVELAS[/COLOR][/B]</name>
+<name>[B][COLOR white]NOVELAS-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/4-NVLS-ALL-LS/main/B-SEL-NVLS-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/g9Gzm42/NVLS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -74,7 +74,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR white]DESENHOS-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-DSNHS-ALL-LS/main/B-SEL-DSNHS-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/R7X3JDP/DSNHS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -86,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]TVs ONLINE [/COLOR][/B]</name>
+<name>[B][COLOR white]TVs ONLINE -GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTVs-LUMINART/main/1A-SEL-TVSCONT-KRP</externallink>
 <thumbnail>https://i.ibb.co/bbG5H9g/TV-ONLINE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -98,7 +98,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
+<name>[B][COLOR white]SEÇÕES ESPECIAIS-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/1-SEL-ESPC-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/Xb4zpLG/ESPECIAIS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -110,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO NOSTALGIA[/B][/COLOR]</name>
+<name>[COLOR white][B]SEÇÃO NOSTALGIA-GU[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/B-SEL-NOST-ALL-MTX</externallink>
 <thumbnail>https://i.ibb.co/GJdfPjf/NOSTALGIA.png</thumbnail
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -133,7 +133,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES COM LINK DIRETO[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES COM LINK DIRETO-GU[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/8-FLMLD-ALL-LS/main/A-SEL-FLMLD-ALL-KRP</externallink>
 <thumbnail>https://i.ibb.co/8ghN7pG/LINK-DIRETO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -145,7 +145,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]ACESSE CONTEUDO NO YOUTUBE[/COLOR][/B]</name>
+<name>[B][COLOR white]ACESSE CONTEUDO NO YOUTUBE-GU[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/9-YOUTB-ALL-LS/main/B-SEL-YOUTB-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/LPWxzrr/ICONEYOUTUBE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
