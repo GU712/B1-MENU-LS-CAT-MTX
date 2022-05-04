@@ -1,11 +1,311 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/O3B-SEL-NEWS-LISTOES-MTX</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] S[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3204.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3205.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3206.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3207.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3208.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3209.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3210.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3211.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3212.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3213.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3214.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T01E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3215.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3216.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3217.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3218.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3219.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3220.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3221.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3222.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3223.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3224.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3225.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3226.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3227.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3228.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3229.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3230.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T02E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3231.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3232.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3233.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3234.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3235.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3236.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3237.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3238.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3239.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3240.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3241.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3242.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3243.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3244.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3245.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3246.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T03E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3247.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3248.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3249.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3250.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3251.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3252.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3254.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3255.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3256.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3257.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3258.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3259.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3260.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3261.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3262.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T04E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3263.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 05[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3264.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3265.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3266.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3267.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3268.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3269.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3270.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3271.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3272.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3273.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3274.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3275.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3276.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3277.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3278.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T05E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3279.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 06[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3280.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3281.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3282.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3283.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3284.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3285.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3286.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3287.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3288.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3289.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3290.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3291.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3292.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3293.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3294.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T06E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3295.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 07[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3296.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3297.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3298.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3299.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3300.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3301.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3302.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3303.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3304.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3305.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3306.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3307.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3308.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3309.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3310.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T07E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3311.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 08[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3312.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3313.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3314.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3315.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3316.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3317.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3318.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3319.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3320.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/3321.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E11[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77488.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E12[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77489.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E13[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77490.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E14[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77491.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E15[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77492.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T08E16[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/77493.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]TEMP 09[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E01[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52554.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E02[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52555.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E03[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52556.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E04[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52557.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E05[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52558.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E06[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52559.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E07[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52560.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E08[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52561.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E09[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52562.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg" group-title="[COLOR white][B] Suits [/B][/COLOR]",[COLOR orange][B]SERVER 1 [COLOR yellow]-> [COLOR white]Suits T09E10[/B][/COLOR]
+http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/52563.mp4
+
