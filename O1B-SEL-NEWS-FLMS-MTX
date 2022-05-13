@@ -6,54 +6,17 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Abraão (1993)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=QkaP2gvmNfs $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Abraao[/B][/COLOR]</link>				
-<link>plugin://plugin.video.youtube/play/?video_id=XQLCG2aC7g4 $nome=[COLOR orange][B]YOUTUBE[COLOR yellow] -> [COLOR white]Abraao[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/GOSPEL/FLMS/LS-Abraao.1993.HD.DUB.mp4 $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Abraao - HD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/ijuwCYAUTOrguvupsxQn6fhmxjv.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/qAn3yeKVBb1P7Ow3kR9mZmu8BvW.jpg</fanart>				
-<info>Abraão é escolhido para torna-se o "Pai das Nações" e a história da redenção se inicia.</info>				
-<genre>GOSPEL</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]David (1997)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=uq6xa9BNKCY $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]David[/B][/COLOR]</link>				
-<link>plugin://plugin.video.youtube/play/?video_id=bVOm82PzaVY&t=241s $nome=[COLOR orange][B]YOUTUBE[COLOR yellow] -> [COLOR white]David[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/GOSPEL/FLMS/LS-David.1997.SD.DUB.mp4 $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]David - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/PZZEIftzyQpqn1BoAXfX3B6l9B.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/yN2xzfoy6JoyjVgmjyqt3sLGV9.jpg</fanart>				
-<info>História do Rei Davi</info>				
-<genre>GOSPEL</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Jeremias (1998)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=NBkfp1ObSts $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Jeremias[/B][/COLOR]</link>				
-<link>plugin://plugin.video.youtube/play/?video_id=2kyp-Y2kyHE&t=58s $nome=[COLOR orange][B]YOUTUBE[COLOR yellow] -> [COLOR white]Jeremias - FHD DUB[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/GOSPEL/FLMS/LS-Jeremias.1998.SD.DUB.avi $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jeremias - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/23BKpFhTMDd9mMplpc9urXPhEnI.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/jgC0WWShxLWNCcnocamh6VRlnr1.jpg</fanart>				
-<info>Para alertar o povo de Jerusalém da destruição de sua cidade, Jeremias, abandona sua familia, e parte em sua missão.</info>				
-<genre>GOSPEL</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-<item>				
-<title>[COLOR white][B]Moisés (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=6hk8G671s2E $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Moises [/B][/COLOR]</link>				
-<link>plugin://plugin.video.youtube/play/?video_id=ZPvbSQ1Syfk $nome=[COLOR orange][B]YOUTUBE[COLOR yellow] -> [COLOR white]Moises[/B][/COLOR]</link>				
-<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/GOSPEL/FLMS/LS-Moises.1995.SD.DUB.mp4 $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Moises - SD DUB[/B][/COLOR]</link>				
-<thumbnail>https://www.themoviedb.org/t/p/original/u8hChTsHfE793Y8z17IpZ0ke1s.jpg</thumbnail>				
-<fanart>https://www.themoviedb.org/t/p/original/2t1jvcfoFydfiWtd6MJ1WeAYU6T.jpg</fanart>				
-<info>Moisés foi um homem comum chamado por Deus para libertar seu povo, os Israelitas.</info>				
-<genre>GOSPEL</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
-				
 
+<item>				
+<title>[COLOR white][B]O Homem do Norte (2022)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=hP4EE31sUeQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem do Norte[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c30d0177872b03d964cf3f960fd971d20a9bc123$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem do Norte - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3663c212e0299127dc4c693f73afa5a3ed8d81ac$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem do Norte - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-O.Homem.do%20Norte.2022.FHD.LEG.FIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem do Norte - FHD LEG-FIX[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/8p9zXB7M78nZpm215zHfqpknMeM.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/xOMLQ0NypqxlEge75I7prBRvRbc.jpg</fanart>				
+<info>O Homem do Norte segue uma história de vingança e loucura de um príncipe.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+	
