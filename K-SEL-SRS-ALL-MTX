@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/K-SEL-SRS-ALL-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/A1-MENU-LS-CAT-KRP/main/K-SEL-SRS-ALL-KRP</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES NO SERVER LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2.SRS-ALL-LS/main/B5-SEL-SRS-GEN-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/A1-MENU-LS-CAT-KRP/main/K1-SEL-SRS-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/qM7nBs4/SRS-SERV-LS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS DO SERVER LS SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES EM TORRENT[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2.SRS-ALL-LS/main/B4-SRS-TORR-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2.SRS-ALL-LS/main/A4-SRS-TORR-KRP</externallink>
 <thumbnail>https://i.ibb.co/Xjg60qL/SRS-TORR.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS DO SERVER TORRENT SÃO ESTÁVEIS, MAS DEPENDEM DE SEEDER ATIVOS PARA CARREGAR MAIS RÁPIDO</info>
@@ -36,9 +36,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES NO SERVER 1[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/9-SEL-ALL-SERVER-1-/main/C-SRS-LD-SERVER-1</externallink>
-<thumbnail>https://i.ibb.co/6HxrS69/SRS-SERV-1.png</thumbnail>
+<name>[COLOR white][B]SERVIDORES ALTERNATIVOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1-MENU-LS-CAT-KRP/main/K2-SEL-SRS-ALT-KRP</externallink>
+<thumbnail>https://i.ibb.co/C21x9Tf/SERVERS-ALT.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS DO SERVER 1 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
 </channel>
@@ -48,20 +48,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES NO SERVER 2[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-ALL-SERVER-2/main/C-SEL-SRS-LD-SERVER-2</externallink>
-<thumbnail>https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>LINKS DO SERVER 2 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/K-SEL-SRS-ALL-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/A1-MENU-LS-CAT-KRP/main/K-SEL-SRS-ALL-KRP</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -80,5 +68,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
