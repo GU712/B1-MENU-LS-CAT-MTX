@@ -50,42 +50,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/3B-ANMS-MTX/main/A-SEL-ANMS-LS-MTX</externallink>
-<thumbnail>https://i.ibb.co/7rchFdT/ANMS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>A CULTURA ANIME REPRESENTADA AQUI</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[B][COLOR white]NOVELAS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/L-SEL-NVLS-ALL-MTX</externallink>
-<thumbnail>https://i.ibb.co/g9Gzm42/NVLS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1M-DSNHS-LS-MTX/main/A-SEL-DSNHS-LS-MTX</externallink>
-<thumbnail>https://i.ibb.co/R7X3JDP/DSNHS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[B][COLOR white]TVs ONLINE[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTVs-LUMINART/main/1B-SEL-TVSCONT-MTX</externallink>
 <thumbnail>https://i.ibb.co/bbG5H9g/TV-ONLINE.png</thumbnail>
