@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES NO SERVER LS[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER LS - SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/A1-MENU-LS-CAT-KRP/main/K1-SEL-SRS-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/pLnydYh/SERVER-LS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT[/B][/COLOR]</name>
+<name>[COLOR white][B]TORRENT - SÉRIES[/B][/COLOR]</name>
 <externallink>https://i.ibb.co/qrMkFL2/SERVER-TORR.png</externallink>
 <thumbnail>https://i.ibb.co/Xjg60qL/SRS-TORR.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVIDORES ALTERNATIVOS[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVIDORES ALTERNATIVOS - SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/K2-SEL-SRS-ALT-MTX</externallink>
 <thumbnail>https://i.ibb.co/C21x9Tf/SERVERS-ALT.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
