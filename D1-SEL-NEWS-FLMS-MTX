@@ -6,7 +6,20 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[COLOR white][B]Thor: Amor e Trovão (2022) [/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=1c_W_4cNLn0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Thor - Amor e Trovao[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:357cd2df0992cc36ccae21284b68db82cf9fbe7d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor - Amor e Trovao - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Thor - Amor e Trovao - UFHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Thor/LS-Thor.Amor.e.Trovao.2022.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Thor - Amor e Trovao - FHD DUAL+LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wSE3IdCWSrsAXkNC9XwnxgJJqIq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3dLpd4TXSEUjDAXVhJxRHLzHt20.jpg</fanart>
+<info>Thor parte em uma jornada em busca de paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Império do Crime (1991)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=If3aoYJeVTU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Imperio do Crime[/B][/COLOR]</link>				
