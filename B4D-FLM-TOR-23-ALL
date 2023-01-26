@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="<CAPADOGENERO>" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSPp8Hx/FLMS-LAN-ICON-2023.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]<NOMEDOFILME>[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=<LINKMAGNET>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]M3GAN[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=BRb4U99OU80
 
-#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - HD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD DUB[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB
 
-#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - FHD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD LEG[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6564e7c9b0ae01c50c47b3ad33f91ddbec3ee6c1
 
-#EXTINF:-1 tvg-logo="<CAPADOFILME>" group-title="[COLOR white][B]<NOMEDOFILME><DATA>[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]<NOMEDOFILME> - UFHD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINKMAGNET>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - UFHD LEG[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5f976f219f29c1ad2b664e9dfaba1fef8b13e94
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
