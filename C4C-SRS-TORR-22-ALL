@@ -13,25 +13,25 @@ LINKDOFILME
 plugin://plugin.video.tubemusic/?video_id=wFvIOZHa9GY
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Flyaway[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bbdbb3012b0cbf3b3946ca06c4d4cfc316a405
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bbdbb3012b0cbf3b3946ca06c4d4cfc316a405
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Tora Bora na Cidade[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:258266b2ef12fa83da562a62b6f0831417557628
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:258266b2ef12fa83da562a62b6f0831417557628
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E03[COLOR yellow] -> [COLOR white]O Apostador[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:606d64fb18711a53b33ac1ca9429cca562daca2b
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:606d64fb18711a53b33ac1ca9429cca562daca2b
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E04[COLOR yellow] -> [COLOR white]Rio Acima[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37903378ec2bc12397f882d87330cdd38a74d749
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37903378ec2bc12397f882d87330cdd38a74d749
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E05[COLOR yellow] -> [COLOR white]Nós Rejeitamos a Sua Influência[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41f8e1f17350d3213f9eeafe9eb32b3fd2fa77a5
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41f8e1f17350d3213f9eeafe9eb32b3fd2fa77a5
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E06[COLOR yellow] -> [COLOR white]Habeas Pancadus[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495c651b5c6205538cb399e181b520fe78d18eb0
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495c651b5c6205538cb399e181b520fe78d18eb0
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E07[COLOR yellow] -> [COLOR white]Vermelho é Positivo, Preto é Negativo[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:552254e09ccc27a5ee862045bdfe1756f3a4ac0e
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:552254e09ccc27a5ee862045bdfe1756f3a4ac0e
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E08[COLOR yellow] -> [COLOR white]Assuntos de Família[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e13f120d2c1e4a3ed7663be6415c6aad7cfb26c1
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e13f120d2c1e4a3ed7663be6415c6aad7cfb26c1
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E09[COLOR yellow] -> [COLOR white]Terra Queimada[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:154db9fb009801bf00801f526f8084e0040039ae
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:154db9fb009801bf00801f526f8084e0040039ae
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E10[COLOR yellow] -> [COLOR white]Calor[/B][/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:774dac0bc94e008ca49e5a8596ecfc43301da580
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:774dac0bc94e008ca49e5a8596ecfc43301da580
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -43,8 +43,3 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-
