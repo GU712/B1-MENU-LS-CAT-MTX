@@ -9,7 +9,7 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]Echo 3 - FHD DUAL[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]<NOMEDASERIE>[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Echo 3[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=wFvIOZHa9GY
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Flyaway[/B][/COLOR]
@@ -43,3 +43,8 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
