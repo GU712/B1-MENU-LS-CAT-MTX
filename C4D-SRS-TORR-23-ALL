@@ -6,10 +6,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]1923 a Série - FHD DUB DUAL+LEG[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]A Série - FHD LEG[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]1923 a Série[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]A Série[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=RGi_C6dB3x0
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]1923[/B][/COLOR]
