@@ -4,27 +4,6 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]A Serie - FHD DUB DUAL+LEG[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]A Serie[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=RGi_C6dB3x0
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]1923[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559decace8128637ba7365d03a03ad46241d5def
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Trono Vazio da Natureza[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70db1d0aabddd6ba949fbff7d6f7edb0c8a53ca
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E03[COLOR yellow] -> [COLOR white]A Guerra Chegou em Casa[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27a500fc5930a52ee3d5b8b5dc4ee0691d8be455
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E04[COLOR yellow] -> [COLOR white]Guerra e a Maré Turquesa[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf0c5fe17efc1a6abb41e0a40ba2986bab3077ee
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg" group-title="[COLOR white][B]Todo Dia a Mesma Noite (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
