@@ -14,7 +14,7 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]A Serie[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=RGi_C6dB3x0
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Ano Presente[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]1923[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559decace8128637ba7365d03a03ad46241d5def
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="[COLOR white][B]1923 (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Trono Vazio da Natureza[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e70db1d0aabddd6ba949fbff7d6f7edb0c8a53ca
