@@ -21,15 +21,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]Deixa Ela Entrar-Série - HD DUAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]Série - HD DUAL[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Deixa Ela Entrar-Série[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]TRAILER[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=IclZQ1wqDxc
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Tudo por Sangue[/B][/COLOR]
@@ -52,6 +53,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MLP5KYSO6X5H4YF72S
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MLP5KYSO6X5H4YF72SKCFIPNEGSKZKP
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E10[COLOR yellow] -> [COLOR white]O Que É Feito No Escuro[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HTLLUWLJ3GEFMU5EMCW74XJBOTPPSLOH
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
