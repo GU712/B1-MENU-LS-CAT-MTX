@@ -21,11 +21,8 @@ plugin://plugin.video.tubemusic/?video_id=5QHl7wRBfOU
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]A Maldição da Mansão Bly - T01 - HD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CIDHH33C6VSHSRWO22KUSAFL5QTTHJGO&#038
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]A Maldição da Mansão Bly - T01 - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3HDNA6IPWJRAB6AZSZSTR63MREIB3QZ&#038
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ece3683c87d931007c0ccb329c7db644880ee19
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]A Maldição da Mansão Bly (2020)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
