@@ -12,7 +12,7 @@ plugin://plugin.video.tubemusic/?video_id=GodwQKNXIYk
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="[COLOR white][B]Cidade Invisível (2021)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Cidade Invisível - T01 - HD DUB[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7802090eb5e833cde88759a8596c226ded3eedea
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="[COLOR white][B]Cidade Invisível (2021)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Cidade Invisível - FHD DUB[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="[COLOR white][B]Cidade Invisível (2021)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Cidade Invisível - T01 - FHD DUB[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47bd861a3b4e60b18a0c98f4b7a671767bf68d1
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
