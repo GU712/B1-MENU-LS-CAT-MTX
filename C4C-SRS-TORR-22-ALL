@@ -27,6 +27,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TEMP 01 - HD DUAL[/B][/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Tudo por Sangue[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R4O6DYEJTEX7XNVMOWTZL3SMYDNOQMGQ
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oG1Ao5ap5eXzww2HYmpDgeHOvhr.jpg" group-title="[COLOR white][B]Deixa Ela Entrar (2022)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Intercessores[/B][/COLOR]
