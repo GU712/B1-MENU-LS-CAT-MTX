@@ -12,6 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]1923 (2022) - ATUALIZADA - EP - 04[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1E-WST-LS-MTX/main/C13-SRS-1923-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg</fanart>
+<info>Assista a série 1923. 
+[COLOR orange][B]WESTERN[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 01 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Os Pioneiros (1974-1982) - ATUALIZADA - TEMP 02[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1E-WST-LS-MTX/main/C12-SRS-Os.Pioneiros-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/iPbWZcxiuMyzcoKjE7tzImyPpt.jpg</thumbnail>
@@ -52,19 +66,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]1923 (2022) - ATUALIZADA - EP - 03[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1E-WST-LS-MTX/main/C13-SRS-1923-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg</fanart>
-<info>Assista a série 1923. 
-[COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 01 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]The Bad Batch (2021-2023) - ATUALIZANDO[/B][/COLOR]</name>
