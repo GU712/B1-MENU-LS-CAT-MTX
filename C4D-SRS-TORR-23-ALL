@@ -86,7 +86,41 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]The-Last-of-Us[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=TdcXP-groXc
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 05 EPS - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Perdido na Escuridão[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6f9ad9bcec466aeb301e1b105bdf8fafac9e04b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Infectada[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56351862a082b1076d7a39157343dec9472ef469
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E03[COLOR yellow] -> [COLOR white]Muito, Muito Tempo[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d90b95fd76be02464c1127c73186e5ad80e37b0f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E04[COLOR yellow] -> [COLOR white]Por Favor, Segure Minha Mão[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dafeda728c85cf5907fc11481c1cf519eb98076
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E05[COLOR yellow] -> [COLOR white]Resistir e Sobreviver[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31d26d534f5a8c677de58a7d8e9d18dc78d93517
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg" group-title="[COLOR white][B]Todo Dia a Mesma Noite (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
