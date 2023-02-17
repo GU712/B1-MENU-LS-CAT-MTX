@@ -10,13 +10,6 @@ plugin://plugin.video.tubemusic/?video_id=sLk94T-hS78
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="[COLOR white][B]Gato de Botas 2: O Último Pedido (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Gato de Botas 2-O Último Pedido - HD DUAL[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591ae7fcb08294c656305636c49aeda2e83adea
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="[COLOR white][B]Pantera Negra: Wakanda para Sempre (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
