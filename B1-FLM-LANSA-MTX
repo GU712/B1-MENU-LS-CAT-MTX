@@ -36,10 +36,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]M3GAN[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=BRb4U99OU80
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD DUB[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6564e7c9b0ae01c50c47b3ad33f91ddbec3ee6c1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2b3e8e7d743ef0ed481f18936f9d29e0fea301
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc8fe4982b383014320a2db80feb9b6845aa189
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - UFHD LEG[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5f976f219f29c1ad2b664e9dfaba1fef8b13e94
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
