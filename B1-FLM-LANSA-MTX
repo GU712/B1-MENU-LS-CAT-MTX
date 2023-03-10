@@ -3,6 +3,15 @@
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Pânico VI[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=QOgdGhA9gos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QMVSVZASWUPITMG422TLGMB3XIUFCP7J
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo[/B][/COLOR]
