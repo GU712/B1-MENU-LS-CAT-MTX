@@ -87,6 +87,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
@@ -98,17 +99,23 @@ plugin://plugin.video.tubemusic/?video_id=TdcXP-groXc
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Perdido na Escuridão[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFYCC4OSOCTYTCISQCPWVLMPM3KX4FTB
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Infectada[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E03[COLOR yellow] -> [COLOR white]Muito, Muito Tempo[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E04[COLOR yellow] -> [COLOR white]Por Favor, Segure Minha Mão[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E05[COLOR yellow] -> [COLOR white]Resistir e Sobreviver[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CM26VEDGU3LG7NRND3WRUPQUERYH43C2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E06[COLOR yellow] -> [COLOR white]Parentesco[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E07[COLOR yellow] -> [COLOR white]O Que Deixamos Para Trás[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E08[COLOR yellow] -> [COLOR white]Quando Mais Precisamos[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IFSWUARHWSZNF6YKDPNO4775I5UR6MIN
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E09[COLOR yellow] -> [COLOR white]Procure a Luz[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RTOGPR35DQICP5ESJ5JNSATFKQ2T7IPD
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
