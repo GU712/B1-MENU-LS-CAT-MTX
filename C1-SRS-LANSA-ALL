@@ -98,15 +98,15 @@ plugin://plugin.video.tubemusic/?video_id=TdcXP-groXc
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E01[COLOR yellow] -> [COLOR white]Perdido na Escuridão[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6f9ad9bcec466aeb301e1b105bdf8fafac9e04b
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYVZYRIGPZRM4YCWBRQT63SQBLAWLD4L
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E02[COLOR yellow] -> [COLOR white]Infectada[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56351862a082b1076d7a39157343dec9472ef469
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK5QKKSDJGDQV766Z3CFHXTK6HQIN3MQ
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E03[COLOR yellow] -> [COLOR white]Muito, Muito Tempo[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d90b95fd76be02464c1127c73186e5ad80e37b0f
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFIEQ7UWF6ASELNLDVCEQLTGO3Q4BKIN
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E04[COLOR yellow] -> [COLOR white]Por Favor, Segure Minha Mão[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dafeda728c85cf5907fc11481c1cf519eb98076
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMYS6KDPVQAZVTXEASTG7W6X52IGDPVF
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]TR-T01E05[COLOR yellow] -> [COLOR white]Resistir e Sobreviver[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31d26d534f5a8c677de58a7d8e9d18dc78d93517
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O4RGCECESNA7VTI4OI3BH2IGXXSQT5EH
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
