@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSPp8Hx/FLMS-LAN-ICON-2023.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
@@ -22,6 +21,17 @@ plugin://plugin.video.tubemusic/?video_id=RAqP_i5-dzI
 https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-Scream.VI.2023.HD.DUB.CAM.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QMVSVZASWUPITMG422TLGMB3XIUFCP7J
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=B4U8CaZoeG4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]LS[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água - FHD DUAL[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-The.Winter.Witch.2022.FHD.DUB.CAM.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F70B6BD37AAC901C01FAA7E8A2FB56E668D228DF
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
