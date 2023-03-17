@@ -7,8 +7,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]The Winter Witch[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=ppKe0H72lSk
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]LS[COLOR yellow]-> [COLOR white]The Winter Witch - FHD DUAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]The Winter Witch - FHD DUAL[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-The.Winter.Witch.2022.FHD.DUB.CAM.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]The Winter Witch - FHD DUAL[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:681AEF7AB34D47BD17BE93F2F1B6B96910D0776C
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -16,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Pânico VI[/B][/COLOR]
 plugin://plugin.video.tubemusic/?video_id=RAqP_i5-dzI
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]LS[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-Scream.VI.2023.HD.DUB.CAM.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QMVSVZASWUPITMG422TLGMB3XIUFCP7J
