@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C2-SEL-SRS-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/2-SEL-SRS-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SERVER LS - SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C2A-SRS-GEN-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/2A-SEL-SRS-GEN-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/pLnydYh/SERVER-LS.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS DO SERVER LS SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
@@ -58,4 +58,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/3-SEL-SRS-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/1-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
