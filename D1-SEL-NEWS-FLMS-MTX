@@ -282,17 +282,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?[/B][/COLOR]</title>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS. [/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
