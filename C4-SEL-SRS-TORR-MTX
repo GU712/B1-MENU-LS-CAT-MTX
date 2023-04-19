@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO-B[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/5-SEL-SRS-TORR-ALL</externallink>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3C-SEL-SRS-TOR-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -10,8 +10,7 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[COLOR white][B]SÉRIES EM TORRENT - 2023[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/3A-SRS-LANSA-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWNt6wL/SRS-LAN-ICON-2023.png</thumbnail>
@@ -21,12 +20,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES EM TORRENT - 2022[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C4C-SRS-TORR-22-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3C3-SRS-TORR-22-ALL</externallink>
 <thumbnail>https://i.ibb.co/L0w3njy/SRS-LANSA.png</thumbnail>
 <fanart>https://i.ibb.co/Nj2kBVk/LANSA-ALL-FAN.png</fanart>
 <info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
@@ -34,12 +32,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES EM TORRENT - 2021[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C4B-SRS-TORR-21-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3C2-SRS-TORR-21-ALL</externallink>
 <thumbnail>https://i.ibb.co/1dxPcgq/SRS-ICON-2021.png</thumbnail>
 <fanart>https://i.ibb.co/PNDBJhB/LAN-FAN-2021.png</fanart>
 <info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
@@ -47,12 +44,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES EM TORRENT - 2020[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/C4A-SRS-TORR-20-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3C1-SRS-TORR-20-ALL</externallink>
 <thumbnail>https://i.ibb.co/Jy544Gx/SRS-ICON-2020.png</thumbnail>
 <fanart>https://i.ibb.co/Z8PdZWW/LAN-FAN-2020.png</fanart>
 <info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
@@ -65,7 +61,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/5-SEL-SRS-TORR-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -74,8 +70,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/1-SEL-SRS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
