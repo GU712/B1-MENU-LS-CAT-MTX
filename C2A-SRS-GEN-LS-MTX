@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4A-SEL-ESPC-FRNQS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A1-SRS-GEN-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -12,222 +12,125 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO 007 - JAMES BOND[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/A-ESP-007-JAMESBOND-MTX</externallink>
-<thumbnail>https://i.ibb.co/ncXdf2C/007-ESP.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dOSECZImeyZldoq0ObieBE0lwie.jpg</fanart>
-<info>O CARISMÁTICO AGENTE SECRETO EM SUAS INCRÍVEIS MISSÕES. </info>
+<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C-LS-SRS-ACA-ALL</externallink>
+<thumbnail>https://i.ibb.co/9sSR5QY/ACA-SRS-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
+<info>SEGURE-SE NA POLTRONA AQUI É PANCADARIA E TIROTEIO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO SCOOBY-DOO  [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/E-SEL-ESP-SCOOBY-DOO-MTX</externallink>
-<thumbnail>https://i.ibb.co/xFC7ysp/SCOOBY-DOO-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/mGR5K5m/SCOOBY-DOO-FAN.png</fanart>
-<info>O CÃO MAIS ATRAPALHADO E AMADO DOS DESENHOS ,EM AVENTURAS ASSUSTADORAS</info>
+<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C-LS-SRS-EPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/8z6Q9HV/EPC-SRS-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
+<info>PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO SHAUN O CARNEIRO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/1A-SEL-ESP-SHAUN</externallink>
-<thumbnail>https://i.ibb.co/cbJdz9c/SHAUN-ALL.png</thumbnail>
-<fanart><fanart>https://i.ibb.co/rdGGdmS/SHAUN-FAN.png</fanart>	</fanart>
-<info>A FAZENDA MAIS DIVERTIDA E SEUS PERSONAGENS MALUCOS</info>
+<name>[COLOR white][B]SÉRIES DE GUERRA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C-LS-SRS-GRR-ALL</externallink>
+<thumbnail>https://i.ibb.co/j57PxPC/GRR-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/JHYRY2N/GUERRA-FAN.png</fanart>
+<info>BATALHAS E COMBATES É AQUI</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]STAR WARS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1-SEL-STARWARS-ALL</externallink>
-<thumbnail>https://i.ibb.co/7g2y5NY/STAR-WARS-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>
-<info>A SAGA MAIS EMBLEMÁTICA DO CINEMA ESTA AQUI PARA SUA MARATONA STAR WARS</info>
+<name>[COLOR white][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C-LS-SRS-COM-ALL</externallink>
+<thumbnail>https://i.ibb.co/fGkw3Ck/CMD-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/Jy9VPvf/COMED-FAN.png</fanart>
+<info>DAR BOAS RISADAS É AQUI MESMO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO STAR TREK[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/J-SEL-ESP-STARTREK-MTX</externallink>
-<thumbnail>https://i.ibb.co/VqrLgJt/STAR-TREK-ESP.png</thumbnail>				
-<fanart>https://i.ibb.co/2PKdt3M/STAR-TREK-FAN.png</fanart>	
-<info>VÁ AONDE O HOMEM NUNCA SONHOU COM A SAGA STAR TREEK</info>
+<name>[COLOR white][B]SÉRIES DE WESTERN[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C-LS-SRS-WST-ALL</externallink>
+<thumbnail>https://i.ibb.co/5M3kDdt/WST-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/jznjQjb/WESTERN-FAN.png</fanart>
+<info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO X-MEN[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/I-SEL-ESP-X-MEN-MTX</externallink>
-<thumbnail>https://i.ibb.co/YcmNmw2/X-MEN-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/Ltd8NB3/X-MEN-FAN.png</fanart>
-<info>OS MUTANTES CHAMADOS DE X-MEN CONTRA SEUS SEMELHANTES PARA PROTEGER A HUMANIDADE.</info>
+<name>[COLOR white][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C-LS-SRS-AVT-ALL</externallink>
+<thumbnail>https://i.ibb.co/Jjky1Mm/AVT-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/fG1qvY0/AVENT-FAN.png</fanart>
+<info>CONHEÇA AS GRANDES AVENTURAS DO CINEMA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO THUNDERBIRDS  [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/F-ESP-THUNDERBIRDS-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/gk17KJjjQpZvejaWfBJXI4CWsVH.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/28Zw4sluikDipRt7yRTZRxOTjHs.jpg</fanart>
-<info>UM SENSACIONAL SHOW DE MARIONETES EM AÇÃO</info>
+<name>[COLOR white][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2G-LS-ANM-ALL/main/C-LS-SRS-ANM-ALL</externallink>
+<thumbnail>https://i.ibb.co/X5J6tdC/ANM-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
+<info>DIVERSÃO ANIMADA E GARANTIDA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO CHICO ANYSIO (1973-1980)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/N-ESP-Chico.Anisio-ALL</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chico_Anysio-cropped.jpg/640px-Chico_Anysio-cropped.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-1IoQnwJzaEA/T22sNJLgXUI/AAAAAAAACuc/0SzVgCAKqqA/s1600/CHICO%2BGERAL.jpg</fanart>
-<info>Assista o especial Chico Anisio. 
-[COLOR orange][B]COMÉDIA[/B][/COLOR]
+<name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C-LS-SRS-SPH-ALL</externallink>
+<thumbnail>https://i.ibb.co/GMS5jqy/SPH-SRS.png/thumbnail>
+<fanart>https://i.ibb.co/f08jx10/SUP-HER-FAN.png</fanart>
+<info>OS MAIORES HERÓIS EM SUAS MAIORES AVENTURAS</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO MAZZAROPI[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/B-ESP-MAZZAROPI-MTX</externallink>
-<thumbnail>https://i.ibb.co/r2wZj6T/MAZZAROPI-ESP.png</thumbnail>
-<fanart>https://i.ibb.co/FW5sp4L/MAZZAROPI-FAN.png</fanart>
-<info>O GRANDE CINEASTA BRASILEIRO E SUAS NOTÓRIAS OBRAS QUE MOSTRAM UM BRASIL COMO NUNCA SE VIU.</info>
+<name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C-LS-SRS-CRDR-ALL</externallink>
+<thumbnail>https://i.ibb.co/PhJJfKR/CRDR-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/B49mGGP/CRIM-DRM-FAN.png</fanart>
+<info>OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI </info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO O GORDO E O MAGRO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/C-ESP-OGORDOEOMAGRO-MTX</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4e/Laurel_and_Hardy.png</thumbnail>
-<fanart>https://www.devotudoaocinema.com.br/content/uploads/2018/08/68339-hksibrgtra-1505306914-696x365.jpg</fanart>
-<info>OS INESQUECÍVEIS COMEDIANTES DO PASSADO E SEUS HILÁRIOS FILMES.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SAGA CREPÚSCULO[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/416GIIuwkByiKurQB3c6ASfdZm4.jpg</fanart>
-<info>VAMPIROS E LOBISOMENS NA SAGA MAIS TEEN DO CINEMA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO THE WALKING DEAD [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBxb1vzBdqHppVcP2a3sk2G7o2E.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sZdtZAYlXGTwAzCei70jQw6b7Bh.jpg</fanart>
-<info>OS ZUMBIS DOMINAM A TERRA EM SUA SÉRIE MAIS ICÔNICA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO FEAR THE WALKING DEAD [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nUXzdD2Jo3wV9Q7mIZjK46Yyty4.jpg</fanart>
-<info>OS ZUMBIS DOMINAM A TERRA EM SUA SÉRIE MAIS MODERNA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO DOIS HOMENS E MEIO  [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nMJO71S7r7bn1ABvARtfuUQJbcS.jpg</fanart>
-<info>MUITAS RISADAS NESSA COMÉDIA DE SITUAÇÃO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO GAME OF THRONES  [/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart>
-<info>A SÉRIE PARA SUA MARATONA ,UMA AVENTURA EXTRAORDINÁRIA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO SOB PRESSÃO[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
-<info>UM HOSPITAL E SUAS DOENÇAS DISSECADAS A FUNDO .</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SEÇÃO TONY JAA[/B][/COLOR]</name>
-<externallink><LINKPARAPAGINAALVO></externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cs5NAQxyfAkUpWBZaLCbqE5LsMj.jpg</thumbnail>
-<fanart>https://img.wallpapersafari.com/desktop/800/450/90/36/PiuQMl.jpg</fanart>
-<info>UM GRANDE ATOR E MESTRE NAS ARTES MARCIAIS E SEUS FILMES REPLETOS DE AÇÃO E LUTAS.</info>
+<name>[COLOR white][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
+<thumbnail>https://i.ibb.co/SQdqFFb/FCFN-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/yXnXnLK/FIC-FAN-FAN.png</fanart>
+<info>EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO LONE RANGER[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/G-ESP-LONE.RANGER-MTX</externallink>
-<thumbnail>https://i.ibb.co/t41CF4g/LONERANGER-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/4jpcgJ0/LONERANGER-FAN.png</fanart>
-<info>Assista o Especial Lone Ranger - O Zorro. 
-[COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]SÉRIE - FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1949 a 1958[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO OS TRAPALHÕES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/L2-SEL-SRS-TRAPALHOES-ALL</externallink>
-<thumbnail>https://i.ibb.co/k9JkdmQ/TRAPA-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/379JxKp/TRAPA-FAN.png</fanart>
-<info>A TURMA DE HUMORISTAS QUE MARCOU ÉPOCA NO BRASIL.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/B-SEL-DOCS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>SEÇÃO DEDICADA A FILMES E SÉRIES DE CUBHO DOCUMENTÁRIO OU BIBLIOGRÁFICO.</info>
+<name>[COLOR white][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C-LS-SRS-SPTR-ALL</externallink>
+<thumbnail>https://i.ibb.co/jJf2tPz/SPTR-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/gVFBqPT/SUP-TER-FAN.png</fanart>
+<info>PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels>
 <channel>
