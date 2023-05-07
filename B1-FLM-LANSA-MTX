@@ -3,6 +3,14 @@
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]John Wick 4[/B][/COLOR]
+plugin://plugin.video.tubemusic/?video_id=gZtmzT9Wgrw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]John Wick 4 - HDCAM[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Exorcista do Papa[/B][/COLOR]
