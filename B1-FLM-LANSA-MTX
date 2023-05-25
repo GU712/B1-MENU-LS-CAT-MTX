@@ -1,127 +1,89 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mSPp8Hx/FLMS-LAN-ICON-2023.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]John Wick 4[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=gZtmzT9Wgrw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="[COLOR white][B]John Wick 4: Baba Yaga (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]John Wick 4 - HDCAM[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]NOMEDOFILME (DATA) - FHD HD SD DUB DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail><CAPA-1></thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Exorcista do Papa[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=NT7d8sWLVCM
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" group-title="[COLOR white][B]O Exorcista do Papa (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Exorcista do Papa - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3TRRF5NLGKR3VSKHMZFJ6IKKOYDWEBA
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Wick 4: Baba Yaga (2023) - HDCAM[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Agua[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=fMdb0nGsICE
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Agua - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MHQQZDRDRSLMRUM2QDMFHSIKK5DAEMR2
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Exorcista do Papa (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3TRRF5NLGKR3VSKHMZFJ6IKKOYDWEBA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]The Winter Witch[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=ppKe0H72lSk
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="[COLOR white][B]The Winter Witch (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]The Winter Witch - FHD DUAL[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-The.Winter.Witch.2022.FHD.DUB.CAM.mkv
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Avatar: O Caminho da Água (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L3TRRF5NLGKR3VSKHMZFJ6IKKOYDWEBA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Pânico VI[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=RAqP_i5-dzI
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-Scream.VI.2023.HD.DUB.CAM.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg" group-title="[COLOR white][B]Pânico VI (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pânico VI - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QMVSVZASWUPITMG422TLGMB3XIUFCP7J
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tudo em Todo o Lugar ao Mesmo Tempo (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=B4U8CaZoeG4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]LS[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água - FHD DUAL[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/0:/CAM/FLMS/LS-The.Winter.Witch.2022.FHD.DUB.CAM.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg" group-title="[COLOR white][B]Avatar: O Caminho da Água (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Avatar - O Caminho da Água - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F70B6BD37AAC901C01FAA7E8A2FB56E668D228DF
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]M3GAN (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc8fe4982b383014320a2db80feb9b6845aa189</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg" group-title="[COLOR white][B]Tudo em Todo o Lugar ao Mesmo Tempo (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg" group-title="[COLOR white][B]Tudo em Todo o Lugar ao Mesmo Tempo (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Tudo em Todo o Lugar ao Mesmo Tempo[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=<LINKMAGNET>
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg" group-title="[COLOR white][B]Tudo em Todo o Lugar ao Mesmo Tempo (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Tudo em Todo o Lugar ao Mesmo Tempo - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Pior Vizinho do Mundo (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEYMNLZO5ARDXU2DSQDDCW2ZVWE5KDSW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=i9-t8H_5W0k
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEYMNLZO5ARDXU2DSQDDCW2ZVWE5KDSW
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="[COLOR white][B]O Pior Vizinho do Mundo (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]O Pior Vizinho do Mundo - UFHD LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8534078c590987850fc825079633f4aab5d584
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Gato de Botas 2: O Último Pedido (2022) - HD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591ae7fcb08294c656305636c49aeda2e83adea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="[COLOR white][B]Gato de Botas 2: O Último Pedido (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="[COLOR white][B]Gato de Botas 2: O Último Pedido (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Gato de Botas 2-O Último Pedido[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=sLk94T-hS78
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="[COLOR white][B]Gato de Botas 2: O Último Pedido (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Gato de Botas 2-O Último Pedido - HD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591ae7fcb08294c656305636c49aeda2e83adea
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pantera Negra: Wakanda para Sempre (2022) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dd755b18290338d7d069a204aa61961ffefa197</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="[COLOR white][B]Pantera Negra: Wakanda para Sempre (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="[COLOR white][B]Pantera Negra: Wakanda para Sempre (2022)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Pantera Negra: Wakanda para Sempre[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=FR9iLjOubWc
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="[COLOR white][B]Pantera Negra: Wakanda para Sempre (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pantera Negra: Wakanda para Sempre - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dd755b18290338d7d069a204aa61961ffefa197
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="[COLOR white][B]Pantera Negra: Wakanda para Sempre (2022)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Pantera Negra: Wakanda para Sempre - FHD DUAL IMAX[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e79e3c25a2b138ca4186a981d2659209d5c78d06
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jung_E (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="[COLOR white][B]Jung_E (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="[COLOR white][B]Jung_E (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]Jung_E[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=iREiyi60xS8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="[COLOR white][B]Jung_E (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]Jung_E - FHD DUAL+LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:806fd21d27e579bee117e964ddea8049b4080dcb
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TRAILER[COLOR yellow]-> [COLOR white]M3GAN[/B][/COLOR]
-plugin://plugin.video.tubemusic/?video_id=BRb4U99OU80
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - FHD DUAL[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccc8fe4982b383014320a2db80feb9b6845aa189
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="[COLOR white][B]M3GAN (2023)[/B][/COLOR]",[COLOR orange][B]TOR[COLOR yellow]-> [COLOR white]M3GAN - UFHD LEG[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5f976f219f29c1ad2b664e9dfaba1fef8b13e94
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
