@@ -87,7 +87,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
@@ -122,6 +121,102 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]
 LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Last of Us (2023)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TEMP 01 <-> 08 EPS - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]A Criança[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c5f4f350d038f873170d43d293d907fc466461f
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]O Pecado[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3380ad96e7168ed913e54333ddaaafb1cf2808
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Santuário[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8be31ccdddc8418c8dd436dc701e29e283fa68ae
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0024B5415EEEED254DAC91DE47A9B03202828A87
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD528FD4FDCB5A220062F3EFE4147DEA8AED8154
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Redenção[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc7b498e748a680b2e191aba5c8ede24fd28293d
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TEMP 02 <-> 08 EPS - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E01[COLOR yellow] -> [COLOR white]O Marechal[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E02[COLOR yellow] -> [COLOR white]O Passageiro[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E03[COLOR yellow] -> [COLOR white]A Herdeira[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E04[COLOR yellow] -> [COLOR white]O Cerco[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E05[COLOR yellow] -> [COLOR white]A Jedi[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E06[COLOR yellow] -> [COLOR white]A Tragédia[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E07[COLOR yellow] -> [COLOR white]O Que Acredita[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TEMP 03 <-> 08 EPS - FHD DUAL[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E01[COLOR yellow] -> [COLOR white]O Apóstata[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:850ef50945e7f01ea775bd6b0e3f7a8079d5c4ba
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E02[COLOR yellow] -> [COLOR white]As Minas de Mandalore[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba54c89d54968472a62442d7438e720631193d27
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E03[COLOR yellow] -> [COLOR white]O Convertido[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c269f2ff0f4504196d718ff7b34a5c0a1e8e7cd
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E04[COLOR yellow] -> [COLOR white]O Enjeitado[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81154c847ae62a3555048db0d5c500992bbe0d5d
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E05[COLOR yellow] -> [COLOR white]O Pirata[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44fa01d0aad6b1ad23f0ef51056d2310a1abfa80
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E06[COLOR yellow] -> [COLOR white]Armas de Aluguel[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e63761d30d4da545f50752e677a10e131367a1b
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E07[COLOR yellow] -> [COLOR white]Os Espiões[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d30dcd34777286f5facaa959352babf4bebcf24
+
+#EXTINF:-1 tvg-logo="<CAPA-1>" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]TOR-T03E08[COLOR yellow] -> [COLOR white]O Retorno[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f88babeeea04f4487ba4ee91185ecd92f794c641
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]NAO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]The Mandalorian (2019)[/B][/COLOR]",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
