@@ -1,261 +1,254 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A-SEL-SRS-TOR-2023-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
-<channels>
-<channel>
-<name>[COLOR white][B]O Mandaloriano (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A1-SRS-Mandaloriano.TOR-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2019) 08 EPs - FHD - DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
-<info>Assista aqui a série O Mandaloriano
-[COLOR orange][B]STAR WARS[/B][/COLOR]
-[COLOR orange][B]ANOS - 2019 a 2023[/B][/COLOR]
-[COLOR orange][B]3 TEMPS - 24 EPS[/B][/COLOR]</info>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item><title>[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]A Criança[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c5f4f350d038f873170d43d293d907fc466461f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]O Pecado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3380ad96e7168ed913e54333ddaaafb1cf2808</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Santuário[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8be31ccdddc8418c8dd436dc701e29e283fa68ae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0024B5415EEEED254DAC91DE47A9B03202828A87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD528FD4FDCB5A220062F3EFE4147DEA8AED8154</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Redenção[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc7b498e748a680b2e191aba5c8ede24fd28293d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-<channels>
-<channel>
-<name>[COLOR white][B]The Last of Us (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A2-SRS-The.Last.of.Us.TOR-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg</fanart>
-<info>Assista aqui a série The Last of Us.
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]ANO - 2023[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 09 EPS[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Todo Dia a Mesma Noite (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A3-SRS-Todo.Dia.a.Mesma.Noite.TOR-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/9qrmQbmEEMc0AsMWX1LKw1ZE5NY.jpg</fanart>
-<info>Assista aqui a série Todo Dia a Mesma Noite.
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]ANO - 2023[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 05 EPS[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</channel>
-</channels>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2021) 08 EPs - FHD - DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES EM TORRENT[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3C-SEL-SRS-TOR-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
+<item><title>[COLOR orange][B]TOR-T02E01[COLOR yellow] -> [COLOR white]O Marechal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E02[COLOR yellow] -> [COLOR white]O Passageiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E03[COLOR yellow] -> [COLOR white]A Herdeira[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E04[COLOR yellow] -> [COLOR white]O Cerco[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E05[COLOR yellow] -> [COLOR white]A Jedi[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E06[COLOR yellow] -> [COLOR white]A Tragédia[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E07[COLOR yellow] -> [COLOR white]O Que Acredita[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]TOR-T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7IrSpJQPYGRLcPqPCn9hA5ec1cs.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
+
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>	
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (2023) 08 EPs - FHD - DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]O Apóstata[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]As Minas de Mandalore[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]O Convertido[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]O Enjeitado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]O Pirata[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Armas de Aluguel[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Os Espiões[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]O Retorno[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/Star.Wars/SRS/Mandaloriano/T03/LS-T03E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pVitdX1tcq2aUJT6tk4GZtfLAqG.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart></item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
