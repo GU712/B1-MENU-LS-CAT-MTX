@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3B-SEL-SRS-TOR-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2-SEL-SRS-TOR-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -9,35 +9,10 @@
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT - 2023[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A-SEL-SRS-TOR-2023-ALL</externallink>
-<thumbnail>https://i.ibb.co/5GkSPLX/ICON-TOR-SRS-2023.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR
- LINKS OF LINE ? INFORME AO SUPORTE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT - 2022[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2B-SEL-SRS-TOR-2022-ALL</externallink>
-<thumbnail>https://i.ibb.co/1K90F8d/ICON-TOR-SRS-2022.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
- LINKS OF LINE ? INFORME AO SUPORTE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT - 2021[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2C-SEL-SRS-TOR-2021-ALL</externallink>
+<name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2A-SEL-SRS-TOR-LAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/gtP15Gr/ICON-TOR-SRS-2021.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
@@ -48,37 +23,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT - 2020[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2D-SEL-SRS-TOR-2020-ALL</externallink>
-<thumbnail>https://i.ibb.co/nzyCxXn/ICON-TOR-SRS-2020.png</thumbnail>
+<name>[COLOR white][B]ÚNICA TEMPORADA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2B-SEL-SRS-TOR-UT-ALL</externallink>
+<thumbnail>https://i.ibb.co/5GkSPLX/ICON-TOR-SRS-2023.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
+<info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR
  LINKS OF LINE ? INFORME AO SUPORTE</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES EM TORRENT - 2019[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2E-SEL-SRS-TOR-2019-ALL</externallink>
-<thumbnail>https://i.ibb.co/rZV57hW/ICON-TOR-SRS-2019.png</thumbnail>
+<name>[COLOR white][B]MÚLTIPLAS TEMPORADAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/8-SEL-TOR-ALL/main/2C-SEL-SRS-TOR-MT-ALL</externallink>
+<thumbnail>https://i.ibb.co/gtP15Gr/ICON-TOR-SRS-2021.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>LINKS TORRENT PRECISAM DE SEMEADORES PARA ABRIR 
  LINKS OF LINE ? INFORME AO SUPORTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
