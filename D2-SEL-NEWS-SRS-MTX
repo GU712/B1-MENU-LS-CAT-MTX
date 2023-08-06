@@ -12,6 +12,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]OS TRAPALHÕES -> FILMES [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/L1-FLM-TRAPALHOES-MTX</externallink>
+<thumbnail>https://i.ibb.co/NswTzPF/TRAPA-FLMS.png</thumbnail>
+<fanart>https://i.ibb.co/379JxKp/TRAPA-FAN.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/1-LS-SEL-DOCS-ALL</externallink>
 <thumbnail>https://i.ibb.co/3NTwj4W/DOCS-ALL-ALL-png.png</thumbnail>
