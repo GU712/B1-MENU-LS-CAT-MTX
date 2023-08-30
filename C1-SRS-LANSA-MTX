@@ -23,8 +23,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Mestre e Aprendiz[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBCZUBFB5DDTBDTD
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Trabalho e Problemas[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]Trabalho e Problemas[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W253V73HAKXBJ4UCIBCZUBFB5DDTBDTD
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Hora de Voar[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6524015fd1a125379bd6e83e82bb865f122f81d6
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
