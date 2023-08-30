@@ -78,17 +78,17 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E01[COLOR yellow] -> [COLOR white]Ressurreição[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e7ec5d0a0de6532199c2fcbdbd0eac8826c10b4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E02[COLOR yellow] -> [COLOR white]Promessas[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:242a3c2d4a471bd21c134a87d67c2b255a956128
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E03[COLOR yellow] -> [COLOR white]Traído[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cda525cb0aae482f46aff90c9bd3d8974aa990d9
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E04[COLOR yellow] -> [COLOR white]Amado[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c148e900595a6bca441a0513b3cf479554ca352c
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E05[COLOR yellow] -> [COLOR white]Colheita[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b52cde977b4c2ac873aed75f5d4da01c865c7879
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]Lar[/B][/COLOR]
-plugin://plugin.video.elementum/play?uri=<LINK[/B]>
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a972b5a170e567209d30dc42918f64c6d293110b
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Invasão Secreta (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
