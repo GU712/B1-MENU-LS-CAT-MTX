@@ -223,6 +223,11 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584ee43347cb32ec351
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07812c66cf6981eade728077d6dcaed23efee8b4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E06[COLOR yellow] -> [COLOR white]A Mentira é a Verdade[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:946635d5a62df3f2a38e3fdbd4dc20c46fc0cd26
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]Desejo Que a Luta Acabe[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a85f4bac581388b0b3b1ba95abef80e2db19e963
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lSJi7YqDenlaRyFBq83w4Hij4VX.jpg" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]Partir é a Ilusão da Ordem[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82d1b762d1b34ced5e459158f830b88cdaf1a49c
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Operação Lioness (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
