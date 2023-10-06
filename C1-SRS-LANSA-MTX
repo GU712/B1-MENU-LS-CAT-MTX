@@ -35,6 +35,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616859e1862f65c31d2
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72NX7QUKJ6NKZOOFUT3AJBRDATGOQ5OY
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E07[COLOR yellow] -> [COLOR white]Sonhos e Loucura[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF3MVTL6MGMUCFQTJNVKD4OYGIUMB6V5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xdlQpELWxJBQ7HQeq2iGCbSUrNI.jpg" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR orange][B]TOR-T01E08[COLOR yellow] -> [COLOR white]O Jedi, a Bruxa e o Senhor da Guerra[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6560d486ea0946b81b35055d2725359c1696d385
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Ahsoka (2023)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
