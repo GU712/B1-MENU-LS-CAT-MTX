@@ -12,16 +12,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Todo Mundo Odeia o Chris (2005-2008) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C45-SRS-Todo.Mundo.Odeia.Chris-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2T0s6klQLvtFOzsqA9512uu5ltf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Todo Mundo Odeia o Chris
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseada vagamente nas experiências pessoais do ator e comediante Chris Rock no bairro de Bed-Stuy, em Nova Iorque, durante a década de 1980 (1982 a 1987).
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]O Homem Invisível (1975) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C31-SRS-O.Homem.Invisivel-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ojmrxi3abFeLaCcYWre9EO3la87.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lBVxQx0ObCGYevMAgFwnV9ajDK8.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]O Homem Invisível
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]01 TEMPs - 13 EPs
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dr. Daniel Westin é um cientista que dedicou parte de sua vida a alcançar a invisibilidade através da desintegração de moléculas. Quando os resultados dos estudos se tornam cada vez mais favoráveis, ele decide ser o cobaia da sua própria experiência.
 [/COLOR]</info>
 </channel>
@@ -36,7 +54,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/8bzWfNG/COL-LEONE-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sergio Leone
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DIRETORES
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -54,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Teen Wolf
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO - 2011 a 2016
 [COLOR orange]SUSPENSE E TERROR
 [COLOR orange]06 TEMPs - 110 EPs
@@ -72,7 +90,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/Kr2M0BP/ESP-LOBISOMEM-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Lobisomem
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -90,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/CnZ1V8v/ESP-ZUMBI-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Zumbi
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -108,7 +126,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/3hKMKPAWzbsjqFQkjg7I22kiJTu.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Daktari
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]ANO - 1966
 [COLOR orange]AVENTURA
 [COLOR orange]04 TEMPs - 071 EPs
@@ -126,7 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Chico Xavier
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO - 2011
 [COLOR orange]DRAMA
 [COLOR orange]01 TEMPs - 04 EPs
@@ -144,7 +162,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/nBLY0qz/COL-DIRTHARRY-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Dirty Harry
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -162,7 +180,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/16jVfLT/COL-CIVILWAR-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Guerra da Secessão
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
@@ -180,7 +198,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/VWT24Mz/COL-POLTERGEIST-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Poltergeist
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]SUSPENSE E TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Poltergeist.
 Não encontrou o que queria ?
@@ -198,7 +216,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/zXCCty3/COL-PREMONISAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Premonição
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]SUSPENSE E TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Premonição.
 Não encontrou o que queria ?
@@ -216,7 +234,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/85KNnnw/COL-SEXYA-F-13-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sexta Feira 13
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]SUSPENSE E TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Sexta Feira 13.
 Não encontrou o que queria ?
@@ -234,7 +252,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/S34Kq3j/COL-TUBARAO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Tubarão
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]SUSPENSE E TERROR
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Tubarão.
 Não encontrou o que queria ?
