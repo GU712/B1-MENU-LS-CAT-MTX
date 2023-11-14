@@ -12,11 +12,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/rwT09Wx/NEWS-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>ADIÇÕES RECENTES</info>
+<info>[COLOR white]Conheça a seção: 
+[B]NOVIDADES DA SEMANA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção são encontrados conteúdos novos que foram adicionados ao SERVER LS durante a semana, a seção esta dividida em dois setores FILMES e SÉRIES.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -77,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]TVs ONLINE[/B][/COLOR]</name>
+<name>[COLOR white][B]TV ONLINE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6-SEL-TVs-ALL</externallink>
 <thumbnail>https://i.ibb.co/7RFB502/TV-ONLINE-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
@@ -130,8 +137,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR black]. [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/TESTES</externallink>
+<name>[B][COLOR black].[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/TESTE%20ALEAT%C3%93RIO</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>TESTE</info>
