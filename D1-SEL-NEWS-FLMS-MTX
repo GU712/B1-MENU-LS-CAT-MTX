@@ -1,334 +1,408 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-<channels>
-<channel>
-<name>[COLOR white][B]Loucademia de Policia (07 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B4-COL-Loucademia.de.Policia-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZgKFpx6/COL-LOUCADEMIA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/2S0gD7Y/COL-LOUCADEMIA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Loucademia de Policia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Um Lugar (2021) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/6AVT-FM/LS-Um.Lugar.2021.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yRlWts1kX3GNjVeWRnQp6eKLOes.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fdXyEWJ4GaXt6Snsm8dNS6B8Keh.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Um Lugar
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Edee encontra-se incapaz de permanecer conectada ao mundo que conhece e recua para a magnífica mas implacável natureza de Rockies. Depois de um caçador local salvá-la no precipício da morte, ela tenta encontrar uma forma de viver novamente.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Café com Aroma de Mulher (1994) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A3-SRS-Cafe.Com.Aroma.de.Mulher-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/14coG0JopLSI5ZswDnrhd8XHsZK.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sv5uVUobUtcr8jXx8ryWf7QLYGW.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]Café com Aroma de Mulher
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1995
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 139 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama narra o romance entre uma catadora de café chamada de Gaiovota e Sebastião Valejo, um jovem de família tradicional. Enquanto ele nunca havia se apaixonado, ela sonha em encontrar o príncipe encantado.
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nossas Noites (2017) - HD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/9CRDR-FM/LS-Nossas.Noites.2017.HD.DUB.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u55x5RZ8xP80URk9nfQMmFc1cJM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2ec2qzc9izRpDDCgNNU3CNZ8wX.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Nossas Noites
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ROMANCE
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma viúva solitária que decide certa noite convidar o vizinho também viúvo Louis Waters para dormir em sua casa. A proposta inusitada, que tem por objetivo ajudar os dois a vencer a insônia, conforme eles colocam o projeto em prática uma bonita relação de cumplicidade floresce.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]O Exterminador do Futuro (06 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B8-COL-Ext.do.Futuro-ALL</externallink>
-<thumbnail>https://i.ibb.co/kMDjDHx/COL-TERMINATOR-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/yqq9zs6/COL-TERMINATOR-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]O Exterminador do Futuro
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Harry Potter (08 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B7-COL-Harry.Potter-ALL</externallink>
-<thumbnail>https://i.ibb.co/CWZT8Jd/COL-POTTER-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/cJwtjLx/COL-POTTER-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Harry Potter
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Chosen: Os Escolhidos (2019-2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C3-SRS-The.Chosen-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/wbCBwxwdXQam3e31e5F42IGxF99.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/74CaT8etPTtBPtuMbrqpNBDXBXA.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Chosen: Os Escolhidos
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Corsário Sem Pátria (1958) - FHD DUB+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-Lafitte.O.Corsario.1958.HD.DUB+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/NPdFnOFmryiikK5IeMfk7nyv0T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89y96uZNPM46hFzwBylFCAXo8bQ.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Corsário Sem Pátria
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1958
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 24 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A série presenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1812, durante a luta contra a invasão inglesa, o general americano Andrew Jackson conta com um punhado de caçadores e homens destreinados para defender a cidade de New Orleans, quando é informado que a frota britânica está chegando, com sessenta navios e milhares de homens para tomarem a cidade. 
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Todo Mundo Odeia o Chris (2005-2008) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C45-SRS-Todo.Mundo.Odeia.Chris-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/2T0s6klQLvtFOzsqA9512uu5ltf.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Todo Mundo Odeia o Chris
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2008
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 88 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseada vagamente nas experiências pessoais do ator e comediante Chris Rock no bairro de Bed-Stuy, em Nova Iorque, durante a década de 1980 (1982 a 1987).
+<item><title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]Os Mercenários 4 (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TDT47YAKR254AKH364PASP4X5NCZW2NY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yH7750OmhoPcrTA9PZTHohDjpqP.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]TOR[COLOR yellow] -> [COLOR white]Som da Liberdade (2023) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dcae6cf729c2073100dcd7bc1d05f5941ff6dca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hwOHbymoAhjrMx7v5ShHCNIP4NI.jpg</thumbnail><fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Selva Nua (1954) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/6AVT-FM/LS-A.Selva.Nua.1954.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gZyPloNh7m2uaaJa1TvKHhlAFFR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zSYGrg0rDXuMmcxSksmRmLxE1xW.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Selva Nua 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1954
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Christopher Leiningen foi determinado o bastante para ir até a América do Sul para construir barragens, no intuito de fazer uma plantação de chocolate perto do rio Negro. Em 1901 Christopher ainda continua no mesmo lugar, está rico, tem 34 anos e nada sabe sobre mulheres.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]O Homem Invisível (1975) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C31-SRS-O.Homem.Invisivel-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ojmrxi3abFeLaCcYWre9EO3la87.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lBVxQx0ObCGYevMAgFwnV9ajDK8.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Homem Invisível
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dr. Daniel Westin é um cientista que dedicou parte de sua vida a alcançar a invisibilidade através da desintegração de moléculas. Quando os resultados dos estudos se tornam cada vez mais favoráveis, ele decide ser o cobaia da sua própria experiência.
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Estranho Sem Nome (1973) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/5WST-FM/LS-O.Estranho.Sem.Nome.1973.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/41GVKLQ4rnggqm5Y8eQ4LE1Gn3s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/j4drM0pPQEhyGD1CV1CPae5hJFt.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Estranho Sem Nome
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um estranho misterioso que surge das escaldantes areias do deserto e cavalga decidido para amedrontada cidade do Lago. Após cometer três assassinatos e um estupro em vinte minutos, o Estranho é contratado pela cidade para protegê-la de três pistoleiros fugidos da prisão.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Sergio Leone (07 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B4-COL-Leone.Sergio-ALL</externallink>
-<thumbnail>https://i.ibb.co/ry6RKfK/COL-LEONE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8bzWfNG/COL-LEONE-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Sergio Leone
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DIRETORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]1492 - A Conquista do Paraíso (1992) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-1492.A.Conquista.do.Paraiso.1992.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qIgplWrPzo2dpgDDqZKUYRQUOCP.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]1492 - A Conquista do Paraíso 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1992
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Vinte anos da vida de Cristóvão Colombo, desde quando se convenceu de que o mundo era redondo, passando pelo empenho em conseguir apoio financeiro da Coroa Espanhola para sua expedição, o descobrimento em si da América.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Teen Wolf (2011-2016) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B8B2-SRS-Teen.Wolf-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/xYxsb5ojRmIK7Bi6YwWF3C4F1Vr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Teen Wolf
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 2011 a 2016
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Bravos Não se Rendem (1967) - HD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/5WST-FM/LS-Os.Bravos.Nao.se.Rendem.1967.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ha6x7zXvJrgHiaXu5bQBcDaS7QS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ssfqvd7cAjiI488OI9CJbcRCkxr.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Bravos Não se Rendem
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD LEG
+[COLOR orange]ANO - 1967
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Este filme investiga a fundo os pensamentos do general Custer e revela as motivações que levaram ao caminho da glória e fracasso.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Salomão e a Rainha de Sabá (1959) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-Salomao.e.a.Rainha.de.Saba.1959.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ULjuB9F8TeRbEcCDhBOzEAkc5F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fpWIXlNObDjhKvkSsmfiZTliyTF.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Salomão e a Rainha de Sabá 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Salomão enfrenta ameaças vindas de seu irmão ciumento e despossuído Adonias, o faraó egípcio e a intrigante rainha de Sabá. Pouco antes de sua morte no antigo Israel, o rei Davi teve uma visão de Deus dizendo que seu filho mais novo, Salomão, deveria sucedê-lo como rei.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Assassinato por Encomenda (1985) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/4CMD-FM/LS-Assassinato.por.Encomenda.1985.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zS02Jeb6B1oLjCE5VrcD4KSak5W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9JlG3D4baERMfSzittXAnfzODGp.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Assassinato por Encomenda
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1985 
+[COLOR orange]COMÉDIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O repórter investigativo Irwin "Fletch" Fletcher leva o seu editor à loucura, mas sempre produz ótimas reportagens. Quando sua próxima história é sobre o tráfico de drogas na praia, Fletch se disfarça como um homem de rua.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Golda (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/3GRR-FM/OC-RS/LS-Golda.A.Mulher.De.Uma.Nacao.2023.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4SbxFDkhxZeAAN1zxgVJpdUB3V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d1A5OQ4PRYssLilGCTRxqwKSQ8q.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Golda
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2023
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ambientado durante os tensos 19 dias da Guerra do Yom Kippur em 1973, a primeira-ministra israelense Golda Meir enfrenta o potencial de destruição completa de Israel.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Egípcio (1954) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/FLMS/2EPC-FM/LS-O.Egipcio.1954.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbUENOF8i5yNjMK3rKZTAe8VM9V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tpLJQaasSewlEG8lqPHw81mvrIo.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Egípcio 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1954
+[COLOR orange]ÉPICOS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Egito antigo, Sinhue, um órfão pobre, se torna um médico brilhante e é indicado para servir o novo faraó. Conforme Sinhue descobre as intrigas e segredos da corte da turbulenta 18a. dinastia, ele tem as respostas que procurava há muitos anos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Diabo no Tribunal (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/11SPTR-FM/LS-O.Diabo.no.Tribunal.2023.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6ZxFx9aQkZyd2SbxKt59x8WooPQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jo6X3kouYN9ZNvXwReK6jyBihYw.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Diabo no Tribunal
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2023
 [COLOR orange]SUSPENSE E TERROR
-[COLOR orange]06 TEMPs - 110 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após ser mordido por um animal, Scott vira lobisomem e é o cara adorado por todas na escola. Só que ele também ganha novos problemas.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Por meio de reconstituições e gravações caseiras, este documentário sombrio investiga a suposta possessão de um garoto e um subsequente assassinato brutal.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Lobisomem (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B8-SEL-LOBISOMEM-ALL</externallink>
-<thumbnail>https://i.ibb.co/qYL8NBw/ESP-LOBISOMEM-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Kr2M0BP/ESP-LOBISOMEM-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Lobisomem
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Zumbi (Filmes - Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B7-SEL-ZUMBI-ALL</externallink>
-<thumbnail>https://i.ibb.co/YN349ks/ESP-ZUMBI-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/CnZ1V8v/ESP-ZUMBI-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça o especial: 
-[B]Zumbi
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]TERROR
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Daktari (1966) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C14-SRS-Daktari-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/snopJzlOhhjG5LKkW2SZ6A9YA0W.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3hKMKPAWzbsjqFQkjg7I22kiJTu.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Daktari
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1966
-[COLOR orange]AVENTURA
-[COLOR orange]04 TEMPs - 071 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marshall Thompson como Dr. Marsh Tracy, um veterinário do fictício Centro de Estudos de Comportamento Animal Wameru na África Oriental.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Chico Xavier (2011) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B2-SRS-Chico.Xavier-2011-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/yOMFlNmROsijMhbqrzc6ZNCCtVA.jpg</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Chico Xavier
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 2011
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Pagador de Promessas (1962) - SD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/12DOC/LS-O.Pagador.de.Promessas.1962.SD.DUB-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iq4llo5xV1q1ykkH1v8b3BpqbDS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k13mFZr51lcOxvLrHHCk9Llevcf.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Pagador de Promessas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB
+[COLOR orange]ANO - 1962 
 [COLOR orange]DRAMA
-[COLOR orange]01 TEMPs - 04 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na infância, Chico começou a ter as primeiras manifestações mediúnicas, vendo e ouvindo espíritos, como o de sua mãe, já desencarnada. Ainda menino, Chico sofria nas mãos da madrinha, Rita, que o maltratava.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Zé do Burro e sua esposa Rosa vivem em uma pequena propriedade rural próxima de Salvador. Um dia, o burro de estimação de Zé é atingido por um raio e ele acaba indo a um terreiro de candomblé, onde faz uma promessa para salvar o animal.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
- 
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Cangaceiro (1953) - SD DUB+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/9CRDR-FM/LS-O.Cangaceiro.1953.SD.DUB+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3BRWdbuaoyRlyMLQ3ovVKicBJtZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3gYTDrDCgT7LEteSVBfdqbhuKWS.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Cangaceiro 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB+LEG
+[COLOR orange]ANO - 1953
+[COLOR orange]CRIME E DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao assaltar uma vila o bando do capitão Galdino sequestra uma jovem professora, e a paixão de um membro importante do bando por ela pode criar problemas para todos do grupo.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7B-SRS-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Demolidor (1993) - FHD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/10FCFN-FM/LS-O.Demolidor.1993.FHD.DUAL.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4pl165EUdvveHCr4J4YcHVA1MnD.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Demolidor 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 1993
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O policial John Spartan e o violento bandido Simon Phoenix são condenados a um encarceramento criogênico conhecido como CryoPrison. Quando Spartan é finalmente descongelado 36 anos depois, já é 2032.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Django - A Volta do Vingador (1987) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Django.A.Volta.do.Vingador.1987.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1rkSeuO2cGcT3CQ47ZxLRHMcGZ8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ai6yFLzRGju9AvcLhkK0u0F2UU4.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Django - A Volta do Vingador
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1987 
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Django novamente empunha suas armas quando fica sabendo que sua filha, jovem e bonita foi raptada por um bandido cruel, o Príncipe Orlowsky. Louco, refinado e sádico, Orlowsky navega pelo rio raptando garotas e escravizando homens para trabalhar em sua mina de prata.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Django Livre (2012) - HD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Django.Livre.2012.HD.DUAL.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ltkWGokEIToUYyoUqc6PBI1kHPx.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Django Livre
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO - 2012
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Django é um escravo, comprado pelo caçador de recompensas alemão Dr. King Schultz para auxiliá-lo em uma missão. A dupla acaba fazendo amizade e, após resolver os problemas do caçador, parte em busca por Broomhilda, esposa de Django. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cahill, o Xerife do Oeste (1973) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Cahill.Xerife.do.Oeste.1973.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kxOwkKKMj0XRCrMD0x8LFQrVjL9.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Cahill, o Xerife do Oeste 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1973
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um agente federal obstinado, pai de dois rapazes adolescentes, é obrigado a deixar sua cidade para perseguir um grupo de bandidos. Ao voltar para casa, descobre que o banco local foi assaltado, o xerife foi assassinado e que dois dos criminosos envolvidos são seus filhos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Companheiros (1970) - HD DUAL[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Companheiros.1970.HD.DUAL.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6lUYzlS6ZjUnbf8ftVZdPZdzdrS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wACvCmAk8AiuDJfSU7MDU1ByXJf.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Companheiros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL
+[COLOR orange]ANO - 1970 
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O contrabandista de armas Yolaf Peterson planeja fazer uma venda para o guerrilheiro Mongo, mas o dinheiro está trancado num cofre no banco e somente o Professor Xantos, um prisioneiro dos americanos, sabe a combinação.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ruptura das Linhas Inimigas (1979) - SD LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/3GRR-FM/2GR/LS-Ruptura.das.Linhas.Inimigas.1979.HD+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7e6OUtyIAdEa9NYPJrG0HdZGQxe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q1Qg9uj3haAT2T0au0g2RTbacMT.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Ruptura das Linhas Inimigas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD LEG
+[COLOR orange]ANO - 1979 
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na retirada alemã na Frente Oriental, o capitão Stransky (Helmut Griem) ordena ao sargento Steiner (Richard Burton) que exploda um túnel ferroviário para impedir que as forças russas o usem. O pelotão de Steiner falha em sua missão ao se deparar com um tanque russo. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quando é Preciso Ser Homem (1970) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Quando.e.Preciso.Ser.Homem.1970.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dE8HSmCMM3KtFWdqVGdqxeiHwWS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6a7JZC0J0318p3xORpVtnQ6wNAe.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Quando é Preciso Ser Homem
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO - 1970 
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Só há dois sobreviventes depois que um grupo de cavalaria é massacrado pelos Cheyenne. Honus, um Ingênuo soldado dedicado ao seu dever, e Cresta, uma jovem que viveu com os Cheyenne por dois anos e cujas simpatias estão mais com eles do que com o governo Americano. Juntos, eles tentam chegar a principal base da cavalaria.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Protetor: Capitulo Final (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/1ACA-CL/O.Protetor/LS-2023.O.Protetor.3.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mxkzUJVaKNZ4IYYHpJq5y05MauC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lNxR7SmtFxFUfA7n9qtzuaIYvoM.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Protetor: Capitulo Final
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 2023
+[COLOR orange]AÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Sentindo-se em casa no sul da Itália, Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Ilha Misteriosa (1961) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1://FLMS/6AVT-FM/LS-A.Ilha.Misteriosa.1961.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3qGUYhuIMJmtGQVvJdVHC1b9cAn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A6eXyEAGPkkSczXXsjcwqKHZYz4.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Ilha Misteriosa ( 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1961
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de soldados da guerra civil americana que, após uma desastrosa viagem de balão, acaba indo parar numa ilha do Pacífico, onde se deparam com monstruosos animais e com o famoso capitão Nemo.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tex Willer e os Senhores do Abismo (1985) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-CL/Gibi/LS-Tex.O.Senhor.do.Abismo.1985.SD.ITA+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jTpYTaEQc5UpAeGK5Dzyh5ybGg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2HbsjDtvEovx7YF43nTgGmXcKGO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Tex Willer e os Senhores do Abismo 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO - 1985
+[COLOR orange]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Tex Willer -, o senhor absoluto dos territórios entre as Montanhas de Prata e todo o Rio Azul. Sempre acompanhado de seus fiéis parceiros, o ranger Kit Carson e o índio navajo Jack Tigre, Tex enfrentará o mais estranho de seus inimigos:
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
