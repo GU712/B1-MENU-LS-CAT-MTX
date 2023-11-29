@@ -12,6 +12,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Espaço: 1999 (1975–1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C32-SRS-Espaso.1999-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/4xq1CJUoyyhV6RGjAKGuPN9oXvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6EXLiTlqxtdB2EVclMcTr4QG1g.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Espaço: 1999
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 48 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A tripulação do Moonbase Alpha deve lutar para sobreviver quando uma enorme explosão lança a Lua da órbita para o espaço profundo.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Batman (Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A9A-FLM-BATMAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/MB08YPX/ESP-BATMAN-ICON-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/Mh8Gfr1/ESP-BATMAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial: 
+[B]Batman
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Batman.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Homem-Aranha (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A8A-FLM-H.ARANHA-ALL</externallink>
 <thumbnail>https://i.ibb.co/74VwBt9/ESP-H-ARANHA-ICON-FLM-ALL.png</thumbnail>
@@ -145,120 +179,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1972
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 000 EPs
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 171 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos, ele vai enfrentar diversos perigos para desvendar crimes e prender bandidos.
 [/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agente 86 (1965-1969) ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C15-SRS-Agente.86-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Agente 86
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Crônicas de Sarah Connor (2008) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C4-SRS-O.Ext.do.Futuro.Cron.Sarah.Connor-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6qRyKBpsR7ORvLak9ZGkSF7Da5y.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4mHJ4WX8Egx3MAss1CTKOKxTrgH.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]As Crônicas de Sarah Connor
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la assim como a proteger seu filho John, predestinado a salvar a raça humana.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Black Sails (2014-2017) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2B-LS-EPC-ALL/main/C8-SRS-Black.Sails-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/l2bWARnuPScUBZtiuqbrqF9vxgS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tbauhHm0WW8wCBqhhJWXYDZDMeQ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Black Sails
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2017
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A população da ilha tomada pelo Capitão Flint e seus piratas pode não ser a mais exemplar, mas ai daquele que tentar invadi-la.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Terrores Urbanos (2018) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/C2-SRS-Terrores.Urbanos-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zifIuDHn5lPTme0FbZW08hxs3t5.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Terrores Urbanos
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 05 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Terrores Urbanos é uma série da Record TV onde cinco lendas urbanas, de diferentes regiões do país, são contadas de maneira nunca antes vista.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Loucademia de Policia (07 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/B4-COL-Loucademia.de.Policia-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZgKFpx6/COL-LOUCADEMIA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/2S0gD7Y/COL-LOUCADEMIA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Loucademia de Policia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Café com Aroma de Mulher (1994) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A3-SRS-Cafe.Com.Aroma.de.Mulher-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/14coG0JopLSI5ZswDnrhd8XHsZK.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/sv5uVUobUtcr8jXx8ryWf7QLYGW.jpg</fanart>
-<info>[COLOR white]Assista aqui a novela: 
-[B]Café com Aroma de Mulher
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1995
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 139 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama narra o romance entre uma catadora de café chamada de Gaiovota e Sebastião Valejo, um jovem de família tradicional. Enquanto ele nunca havia se apaixonado, ela sonha em encontrar o príncipe encantado.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channels>
 <channel>
