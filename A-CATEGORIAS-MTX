@@ -129,7 +129,8 @@ Peça ao SUPORTE AO USUÁRIO
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]ESPECIAL DE NATAL LUMINART[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/ESP-DE-NATAL-LS</externallink>
 <thumbnail>https://i.ibb.co/GdDHrm9/ICON-NATALS.png</thumbnail>
