@@ -1,6 +1,6 @@
 <channels>
 <channel>				
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO-ALL[/B][/COLOR]</name>				
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>			
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
@@ -132,7 +132,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAL DE NATAL LUMINART[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/A1-SEL-ESPC-NATAL-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/TESTES</externallink>
 <thumbnail>https://i.ibb.co/GdDHrm9/ICON-NATALS.png</thumbnail>
 <fanart>https://i.ibb.co/K7xpBhw/FAN-NATAL.png</fanart>
 <info>FELIZ NATAL</info>
