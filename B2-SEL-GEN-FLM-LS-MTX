@@ -208,7 +208,8 @@ Peça ao SUPORTE AO USUÁRIO
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2L-LS-DOCS-ALL/main/1-LS-SEL-DOCS-ALL</externallink>
 <thumbnail>https://i.ibb.co/3NTwj4W/DOCS-ALL-ALL-png.png</thumbnail>
