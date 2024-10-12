@@ -1,21 +1,21 @@
 <channels>
 <channel>				
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>				
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>			
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/1-CATEGORIAS-ALL</externallink>			
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </channel>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+			
 <channels>
 <channel>
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/rwT09Wx/NEWS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]NOVIDADES DA SEMANA
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção são encontrados atalhos provisórios aos conteúdos novos que foram adicionados ao SERVER LS durante a semana, a seção esta dividida em dois setores FILMES e SÉRIES. 
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/3YCQ1gW/FLM-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]FILMES
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]FILME: Produto audiovisual finalizado, com certa duração para ser exibido no cinema, na televisão ou em algum outro veículo, podem ser curtas ou longas. A Seção de FILMES disponibiliza conteúdo em diversos servidores.
@@ -47,9 +47,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/FX1qDcx/SRS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]SÉRIES
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]A seção contém conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, com ou sem vínculos de uns com os outros no decorrer de diversas temporadas.
@@ -64,9 +64,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/jJSC9Rk/ESPECIAIS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]ESPECIAIS
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Consideramos conteúdo ESPECIAL as franquias ou personagens que possuam além de filmes, apresentações em Séries ou Desenhos. Por isso organizamos esse material para centralizar e facilitar seu acesso. 
@@ -81,9 +81,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/SB81QJB/NOSTALGIA-ICON-ALL.png</thumbnail
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/NKPk17K/NOSTALGIA-ICON-ALL.png</thumbnail
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]NOSTALGIA
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nessa seção adicionamos conteúdo raro e antigo, lançados antes do ano 2000. Esta organizada por décadas, na maioria material exclusivo que compramos de colecionadores usando as CONTRIBUIÇÕES recebidas.
@@ -98,9 +98,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]TV ONLINE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/6-SEL-TVs-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/6-SEL-TVs-ALL</externallink>
 <thumbnail>https://i.ibb.co/7RFB502/TV-ONLINE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]TV ONLINE
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Seção com acessos a tvs gratuitas. Mais informações com o SUPORTE AO USUÁRIO
@@ -117,7 +117,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/REPOINFOS/master/1A5-ACESSRESTR-PEDIDOSDO%20USUARIO</externallink>
 <thumbnail>https://i.ibb.co/VVkYtw6/PEDIDOS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>[COLOR white]Conheça a seção: 
 [B]PEDIDOS DO USUÁRIO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Nosso Principal diferencial é o SUPORTE TÉCNICO individualizado e a nossa capacidade de atender os PEDIDOS DO USUÁRIO adicionando conteúdo solicitado pelo mesmo. Clique no link e saiba mais.
@@ -131,7 +131,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <name>[COLOR white][B]ESPECIAL DE NATAL LUMINART[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/A1-SEL-ESPC-NATAL-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A1-SEL-ESPC-NATAL-ALL</externallink>
 <thumbnail>https://i.ibb.co/GdDHrm9/ICON-NATALS.png</thumbnail>
 <fanart>https://i.ibb.co/K7xpBhw/FAN-NATAL.png</fanart>
 <info>FELIZ NATAL</info>
@@ -142,9 +142,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR black].[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/main/3Z-XXX-S2-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/6-SEL-ALT-ALL/refs/heads/main/3Z-XXX-S2-ALL</externallink>
 <thumbnail>https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>CONTEÚDO ADULTO</info>
 </channel>
 </channels>
@@ -153,11 +153,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B][COLOR black].[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/main/TESTES</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<externallink>https://raw.githubusercontent.com/GU712/REPOTESTES-LUMINART/refs/heads/main/TESTES</externallink>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>TESTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[B][COLOR black].[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/refs/heads/main/A2-SEL-CURSOS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bW5g6cj/ABA.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
+<info>CURSOS EM VÍDEO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
